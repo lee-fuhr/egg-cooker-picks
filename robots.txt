@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lee-fuhr.github.io/egg-cooker-picks/sitemap.xml
